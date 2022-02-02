@@ -1,8 +1,12 @@
 /* style.css */
 
-h1,
-h2 {
+h1, h2, h3, p, a {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+img {
+    height: auto;
+    width: 300px;
 }
 
 
