@@ -9,5 +9,8 @@ img {
     width: 300px;
 }
 
-
-
+/* This is a useless class, but I'm leaving it here to potentially explore it more. 
+.hero-image {
+    background-color: blue;
+}
+*/
